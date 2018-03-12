@@ -1,0 +1,10 @@
+@import 'nativescript-theme-core/css/core.dark.css';
+
+
+Label{
+    color:red;
+    text-align: center;    
+    font-size: 90px;
+    padding-top: 20px;
+}
+

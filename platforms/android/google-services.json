@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "25303282816",
+    "firebase_url": "https://resume-edfe8.firebaseio.com",
+    "project_id": "resume-edfe8",
+    "storage_bucket": "resume-edfe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25303282816:android:eebc95a1da34268e",
+        "android_client_info": {
+          "package_name": "org.nativescript.nsvue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25303282816-bc4d7vbde4rp7bd3fu0mt2qd4urk2lbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk7b-xbNXJ_EHRneoAro5d9AuQUb-mkow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

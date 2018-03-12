@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\79312fae3f6e1584f290fec41b9723d1f91510a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aebd345a61f563da0989cbd014479c8bf7bd77ab">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_620df06d0f8b7e2d974d50bb0f7826bef107bfd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\210c268eb17dba00ccbb347a02a8dc07b65961a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_5b1a742fcb22358aa264bfa060b0d2b5c4392315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\d6aeeb7dd95162141db0eb95f52b4f7eaac4e247\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe66404378d7791a232cc3331811b2ce402f44c7">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_b0fb63f8ce72fe1895cdbd992fa7cc529b02d505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\b6ea852bd70a04b6332b130d9e126a0f3760f13d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_9c7186b4e54aad341c46c6cab30b4b446925777d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\dc11f485cbd0f68afa671c00535eed2e12469a9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_4b772d52257102788d9e90a621506f746b60888b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\da1d8e77c418272bb78a7fe74598c99cf3360a6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_bdb9c54f1b1bccc026490b1624ad22792d232517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\e95aa442403eba9d4a01ac0e112806c91bf2be5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_0eacfb798017de645abcf7f4b1733ddd31edb71b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\39660e74419cb644799067a0a93f41e48d34ae8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_df5b35650a545702b5ae441392d3ebd02e18eca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\gson-2.8.2_7d0217ea43add79a77210d6d97e9ab3316e08c84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\05b0cc61ff24aecb357b96fd08dfbe91935b46b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_5e000a17c17e2e84d09feeffd515c1170e0b7131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\1431842352e0612582867509ce11d1c50b7da07c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_dc5a799abf5d56feb2d906b54da5eda8c191602b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\255f74eeb8d629bac3e266429a85465c50d59984\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_dbae1bd587f2c1d72dbe4d6517ffdd9c528766aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\15794b605b340dbb54cb23aeaf03093380eeec92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_af1d30926d3c61eb189c4f52bba4bea9b7600855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\d6705750dcded025bfda1910bfeca588735d81ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_caa97bb938278349bfb9582bad0ff0cd7f1d323a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cush\.android\build-cache\dc27028870bd1c754ddd0c558108cda8920009a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="C:\Users\cush\Desktop\nsvue-starter\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_a33642f10fb27a3f5f2d0e2be0a79b723b2ef5ff.jar" />
+    </item>
+
+</items>

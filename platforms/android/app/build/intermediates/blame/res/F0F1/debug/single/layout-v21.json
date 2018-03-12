@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\cush\\Desktop\\nsvue-starter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\cush\\.android\\build-cache\\b80f64e106afe77af3fc9afb405c161ad970ba88\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\cush\\Desktop\\nsvue-starter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\cush\\.android\\build-cache\\b80f64e106afe77af3fc9afb405c161ad970ba88\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\cush\\Desktop\\nsvue-starter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\cush\\.android\\build-cache\\b80f64e106afe77af3fc9afb405c161ad970ba88\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\cush\\Desktop\\nsvue-starter\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\cush\\.android\\build-cache\\b80f64e106afe77af3fc9afb405c161ad970ba88\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

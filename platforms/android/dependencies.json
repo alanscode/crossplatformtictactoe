@@ -1,0 +1,26 @@
+[
+    {
+        "name": "nativescript-plugin-firebase",
+        "directory": "..\\..\\node_modules\\nativescript-plugin-firebase"
+    },
+    {
+        "name": "nativescript-sidedrawer",
+        "directory": "..\\..\\node_modules\\nativescript-sidedrawer"
+    },
+    {
+        "name": "nativescript-theme-core",
+        "directory": "..\\..\\node_modules\\nativescript-theme-core"
+    },
+    {
+        "name": "nativescript-vue",
+        "directory": "..\\..\\node_modules\\nativescript-vue"
+    },
+    {
+        "name": "tns-core-modules",
+        "directory": "..\\..\\node_modules\\tns-core-modules"
+    },
+    {
+        "name": "tns-core-modules-widgets",
+        "directory": "..\\..\\node_modules\\tns-core-modules-widgets"
+    }
+]
